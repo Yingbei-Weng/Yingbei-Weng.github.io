@@ -7,7 +7,9 @@ categories: publications
 author: "Banghao Chi"
 authors: "Hanling Wang, <strong>Banghao Chi</strong>, Yufei Wu, et. al."
 venue: "Association for Computing Machinery Learning@Scale (ACM L@S)"
-paper: /pdfs/.pdf
+paper: /pdfs/llmarking.pdf
+code: https://github.com/BiboyQG/LLMarking
+poster: https://drive.google.com/file/d/1xbt0JpxOxuztEoUPi2vq6u0BzlNOKq7P/view?usp=drive_link
 ---
 
 We present LLMarking, a novel automatic short-answer grading system that leverages large language models along with a Key Point Scoring Framework and Prompt Dynamic Adjustment to deliver flexible, accurate, and explainable assessments across various educational contexts.
