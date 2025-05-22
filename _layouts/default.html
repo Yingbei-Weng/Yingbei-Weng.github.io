@@ -494,5 +494,51 @@
         </td>
       </tr>
     </table>
+
+    <!-- Footer -->
+    <table
+      style="
+        width: 100%;
+        max-width: 800px;
+        border: 0px;
+        border-spacing: 0px;
+        border-collapse: separate;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+      "
+    >
+      <tr>
+        <td style="padding: 0px; border-top: 1px solid #ddd">
+          <table
+            style="
+              width: 100%;
+              border: 0px;
+              border-spacing: 0px;
+              border-collapse: separate;
+              margin-right: auto;
+              margin-left: auto;
+            "
+          >
+            <tr>
+              <td
+                style="
+                  padding: 20px;
+                  text-align: center;
+                  font-size: 14px;
+                  color: #777;
+                "
+              >
+                <p>
+                  © {{ site.time | date: '%Y' }} Banghao Chi. All rights
+                  reserved.
+                </p>
+                <p>Last updated: {{ site.time | date: "%B %Y" }}</p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
   </body>
 </html>
