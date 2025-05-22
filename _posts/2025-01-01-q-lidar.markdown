@@ -8,6 +8,7 @@ author: "Banghao Chi"
 authors: "<strong>Banghao Chi</strong>, Hongbo Zheng, Minjia Zhang, et. al."
 venue: "arXiv"
 paper: /pdfs/q_lidar.pdf
+code: https://github.com/BiboyQG/Quantization-on-3D-Object-Detection
 ---
 
 We introduce Q-LiDAR, a training-free quantization framework for 3D LiDAR object detection models that improves inference efficiency without compromising accuracy by combining component-specific techniques like SmoothQConv, channel-wise quantization, and Hessian-guided bit-width allocation.
