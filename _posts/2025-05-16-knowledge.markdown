@@ -3,7 +3,7 @@ layout: post
 title: "LLMs-based Knowledge Agents"
 date: 2025-05-16 22:21:59 +00:00
 image: /images/knowledge.png
-categories: other
+categories: UIUC-SSAIL
 author: "Banghao Chi"
 authors: "<strong>Banghao Chi</strong>"
 venue: "arXiv"
