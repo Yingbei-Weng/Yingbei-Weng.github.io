@@ -6,7 +6,7 @@ image: /images/object_detection.png
 categories: publications
 author: "Banghao Chi"
 authors: "<strong>Banghao Chi</strong>"
-venue: "International Conference on Applied Physics and Computing(ICAPC)"
+venue: "International Conference on Applied Physics and Computing (ICAPC)"
 paper: /pdfs/object_detection.pdf
 ---
 
