@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Research Advanced on the Influence of Green Credit Policy on Companies: A Case Study of Industrial Structure, Firm Performance, and Response Measures"
+date: 2025-04-13 22:21:59 +00:00
+image: /images/green.png
+categories: publications
+author: "Yingbei Weng"
+authors: "<strong>Yingbei Weng</strong>"
+venue: "Advances in Economics, Management and Political Sciences (AEMPS)"
+paper: /pdfs/green.pdf
+---
+
+We empirically analyzes the impact of the Green Credit Policy on firms’ industrial structure, performance, and strategic responses, revealing its role in promoting environmental sustainability and penalizing poor environmental practices.
