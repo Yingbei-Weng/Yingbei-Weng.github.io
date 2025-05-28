@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Research Advanced on the Influence of Green Credit Policy on Companies: A Case Study of Industrial Structure, Firm Performance, and Response Measures"
-date: 2025-04-13 22:21:59 +00:00
+date: 2023-11-08 22:21:59 +00:00
 image: /images/green.png
 categories: publications
 author: "Yingbei Weng"
